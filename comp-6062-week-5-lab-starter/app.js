@@ -27,7 +27,7 @@ let isNotEqual = a!=b;
 
 // Example: let isStrictNotEqual;
 // Use '!==' to compare 'a' and 'b' for strict inequality.
-ley isStrictNotEqual = a!==b;
+let isStrictNotEqual = a!==b;
 
 // Step 3: Perform basic mathematical operations.
 // Example: let add;
